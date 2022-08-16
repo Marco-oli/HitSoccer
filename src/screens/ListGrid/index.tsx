@@ -57,7 +57,9 @@ export const ListGridScreen = () => {
     }
 
     if (buttonSelected === 'nome') {
-      return Mock.filter(item => item.time.nome_popular.includes(text));
+      return Mock.filter(item =>
+        item.time.nome_popular.toLowerCase().includes(text.toLowerCase()),
+      );
     }
 
     return Mock;
