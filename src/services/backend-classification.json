@@ -1,11 +1,12 @@
-[{
+[
+    {
         "posicao": 1,
         "pontos": 45,
         "time": {
             "time_id": 56,
             "nome_popular": "Palmeiras",
             "sigla": "PAL",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999ccc90039.svg"
+            "escudo": "https://www.escudosfc.com.br/images/palmeiras.png"
         },
         "jogos": 21,
         "vitorias": 13,
@@ -31,7 +32,7 @@
             "time_id": 65,
             "nome_popular": "Corinthians",
             "sigla": "COR",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999d7ab48fa.svg"
+            "escudo": "https://www.escudosfc.com.br/images/corinthians.png"
         },
         "jogos": 21,
         "vitorias": 11,
@@ -57,7 +58,7 @@
             "time_id": 26,
             "nome_popular": "Fluminense",
             "sigla": "FLU",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999ca0e01e3.svg"
+            "escudo": "https://www.escudosfc.com.br/images/fluminense.png"
         },
         "jogos": 21,
         "vitorias": 11,
@@ -83,7 +84,7 @@
             "time_id": 185,
             "nome_popular": "Athletico-PR",
             "sigla": "CAP",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999e2864a27.svg"
+            "escudo": "https://www.escudosfc.com.br/images/atlpr.png"
         },
         "jogos": 21,
         "vitorias": 11,
@@ -109,7 +110,7 @@
             "time_id": 18,
             "nome_popular": "Flamengo",
             "sigla": "FLA",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999c95084cb.svg"
+            "escudo": "https://www.escudosfc.com.br/images/fla.png"
         },
         "jogos": 21,
         "vitorias": 11,
@@ -135,7 +136,7 @@
             "time_id": 44,
             "nome_popular": "Internacional",
             "sigla": "INT",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999cbb0b297.svg"
+            "escudo": "https://www.escudosfc.com.br/images/interrs.png"
         },
         "jogos": 21,
         "vitorias": 8,
@@ -161,7 +162,7 @@
             "time_id": 30,
             "nome_popular": "Atlético-MG",
             "sigla": "CAM",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999ca6bfd30.svg"
+            "escudo": "https://www.escudosfc.com.br/images/atletico.png"
         },
         "jogos": 21,
         "vitorias": 8,
@@ -187,7 +188,7 @@
             "time_id": 64,
             "nome_popular": "Bragantino",
             "sigla": "BGT",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999d770dbb2.svg"
+            "escudo": "https://www.escudosfc.com.br/images/bragantino.png"
         },
         "jogos": 21,
         "vitorias": 8,
@@ -213,7 +214,7 @@
             "time_id": 63,
             "nome_popular": "Santos",
             "sigla": "SAN",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999d7525121.svg"
+            "escudo": "https://www.escudosfc.com.br/images/santos.png"
         },
         "jogos": 21,
         "vitorias": 7,
@@ -239,7 +240,7 @@
             "time_id": 33,
             "nome_popular": "América-MG",
             "sigla": "AMG",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999cac0b5cc.svg"
+            "escudo": "https://www.escudosfc.com.br/images/ammg.png"
         },
         "jogos": 21,
         "vitorias": 8,
@@ -265,7 +266,7 @@
             "time_id": 57,
             "nome_popular": "São Paulo",
             "sigla": "SAO",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999ccdc1656.svg"
+            "escudo": "https://www.escudosfc.com.br/images/saopaulo.png"
         },
         "jogos": 21,
         "vitorias": 5,
@@ -291,7 +292,7 @@
             "time_id": 22,
             "nome_popular": "Botafogo",
             "sigla": "BOT",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999c9b06760.svg"
+            "escudo": "https://www.escudosfc.com.br/images/botafogo.gif"
         },
         "jogos": 21,
         "vitorias": 7,
@@ -317,7 +318,7 @@
             "time_id": 115,
             "nome_popular": "Goiás",
             "sigla": "GOI",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999dc97b4e2.svg"
+            "escudo": "https://www.escudosfc.com.br/images/goias.png"
         },
         "jogos": 21,
         "vitorias": 6,
@@ -343,7 +344,7 @@
             "time_id": 105,
             "nome_popular": "Ceará",
             "sigla": "CEA",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999dba767ba.svg"
+            "escudo": "https://www.escudosfc.com.br/images/ceara.png"
         },
         "jogos": 21,
         "vitorias": 5,
@@ -369,7 +370,7 @@
             "time_id": 84,
             "nome_popular": "Coritiba",
             "sigla": "CFC",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999d991e8b8.svg"
+            "escudo": "https://www.escudosfc.com.br/images/coritiba.png"
         },
         "jogos": 21,
         "vitorias": 6,
@@ -395,7 +396,7 @@
             "time_id": 6,
             "nome_popular": "Avaí",
             "sigla": "AVA",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999c8488adb.svg"
+            "escudo": "https://www.escudosfc.com.br/images/avai.gif"
         },
         "jogos": 21,
         "vitorias": 6,
@@ -421,7 +422,7 @@
             "time_id": 131,
             "nome_popular": "Fortaleza",
             "sigla": "FOR",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999ddaa261b.svg"
+            "escudo": "https://www.escudosfc.com.br/images/fortaleza.png"
         },
         "jogos": 21,
         "vitorias": 5,
@@ -447,7 +448,7 @@
             "time_id": 204,
             "nome_popular": "Cuiabá",
             "sigla": "CUI",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999e4424264.svg"
+            "escudo": "https://www.escudosfc.com.br/images/cuiaba_mt.png"
         },
         "jogos": 21,
         "vitorias": 5,
@@ -473,7 +474,7 @@
             "time_id": 98,
             "nome_popular": "Atlético-GO",
             "sigla": "ACG",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999db078911.svg"
+            "escudo": "https://www.escudosfc.com.br/images/atlego.png"
         },
         "jogos": 21,
         "vitorias": 5,
@@ -499,7 +500,7 @@
             "time_id": 43,
             "nome_popular": "Juventude",
             "sigla": "JUV",
-            "escudo": "https:\/\/apifutebol.s3.sa-east-1.amazonaws.com\/escudos\/5f999cb997a01.svg"
+            "escudo": "https://www.escudosfc.com.br/images/juventude.png"
         },
         "jogos": 21,
         "vitorias": 3,
